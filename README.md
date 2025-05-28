@@ -1,8 +1,19 @@
 # FUTURE_ML_02
 🚀 Task: Stock Price Prediction Using Machine Learning
+
+
+
+
+
+
 📊 Built a predictive model to forecast stock prices using regression and time series techniques.
 
-🛠️ Tools Used:
+
+
+
+
+
+  🛠️ Tools Used:
 
 Python
 
